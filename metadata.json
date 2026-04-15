@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Checklist Apoio Logístico",
+  "description": "Aplicativo de checklist para apoio logístico com fotos, checklist de itens e assinaturas digitais.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
